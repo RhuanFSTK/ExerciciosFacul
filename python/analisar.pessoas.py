@@ -1,4 +1,5 @@
-total_pessoas = 3  # Substitua pelo valor desejado
+# Declaração de variaveis
+total_pessoas = 20  # Substitua pelo valor desejado
 soma_idade_mulheres = 0
 soma_altura_mulheres = 0
 soma_idade_homens = 0
