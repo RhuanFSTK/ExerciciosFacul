@@ -1,5 +1,5 @@
 while True: # Estrutura de repetição
-    entrada = input("Digite um número inteiro: ") # Entrada de dados
+    entrada = input("Digite um número inteiro:\n") # Entrada de dados
 
     if entrada.isdigit(): # Verifica se todos os caracteres na string entrada são dígitos (0 a 9) 
         numero = int(entrada) # Conferindo se os dados se trata de inteiros 
