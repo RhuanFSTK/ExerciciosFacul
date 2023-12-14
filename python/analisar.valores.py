@@ -1,3 +1,4 @@
+# Declaração de variaveis
 maior = 0
 menor = 0
 soma = 0
