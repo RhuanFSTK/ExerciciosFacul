@@ -1,3 +1,4 @@
+# Declaração de variaveis
 temperatura = 0
 celsius = 0
 kelvin = 0 
