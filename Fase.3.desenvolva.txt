@@ -1,0 +1,9 @@
+O nosso projeto será desenvolver alguns programas:  
+
+1.    Faça um programa que utilize duas funções definidas por você.  
+
+2.    Escreva um programa Python para remover duplicatas de uma lista.  
+
+3.   Faça três programas que utilizem módulos nativos do Python (três módulos deverão ser utilizados, no mínimo, isto é, ao menos um módulo diferente em cada um dos programas).  
+
+4.    Escreva um programa que leia uma série de dados temporais diários de um arquivo (sobre qualquer assunto – livre escolha) e plote um gráfico contendo a quantidade de ocorrências diárias e a sua média móvel nos últimos cinco dias. A entrega deverá ser feita da seguinte forma:  
