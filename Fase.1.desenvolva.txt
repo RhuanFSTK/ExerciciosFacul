@@ -1,0 +1,25 @@
+Agora é hora de colocar a mão na massa no nosso projeto. Então vamos começar no mundo da programação, por meio de algoritmos. Para entendermos a lógica presente em qualquer linguagem de programação, o nosso projeto será desenvolver alguns algoritmos para pequenos problemas computacionais. Para os problemas abaixo, você deverá escrever o fluxograma e rodar o psudocódigo no visualg.  
+
+1.   Faça um algoritmo para calcular o fatorial de um número qualquer.  
+
+2.   Escreva um algoritmo que leia 10 valores inteiros e positivos e  
+
+a) encontre o maior valor;  
+
+b) encontre o menor valor;  
+
+c) calcule a média dos números lidos.  
+
+3.   Faça um algoritmo que colete os dados de sexo (0-feminino, 1-masculino), idade e altura de 20 pessoas e mostre as seguintes informações:  
+
+a) média da idade do grupo coletado;  
+
+b) média da altura das mulheres;  
+
+c) média da idade dos homens;  
+
+d) percentual de pessoas com idade entre 18 e 35 anos (inclusive).  
+
+4.   Escreva um algoritmo que leia uma temperatura, pergunte a unidade dessa temperatura e converta o valor para as demais unidades (As unidades de temperatura são Celsius, Kelvin e Fahrenheit).  
+
+5.   Faça um algoritmo que calcule o valor futuro de uma aplicação.  
